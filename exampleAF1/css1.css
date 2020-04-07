@@ -1,0 +1,11 @@
+form {
+    width: 500px;
+    padding: 20px;
+    border: 2px solid crimson;
+    margin: 10px;
+}
+input {
+    margin: 10px;
+    size: 150px;
+padding-right: 50px;
+}
