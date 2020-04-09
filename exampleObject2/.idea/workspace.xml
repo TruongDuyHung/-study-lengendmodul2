@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8bb667d-bda3-4fd6-b6ce-8eab4d55dda2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aFi4FYUTIEMg2EX8HsRRK0HKvE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exampleObject1/QuadraticEquation.php" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8bb667d-bda3-4fd6-b6ce-8eab4d55dda2" name="Default Changelist" comment="" />
+      <created>1586337549952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586337549952</updated>
+      <workItem from="1586337552017" duration="91000" />
+      <workItem from="1586337711915" duration="754000" />
+      <workItem from="1586340493743" duration="8543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="931" y="147" key="FileChooserDialogImpl" timestamp="1586343292283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="931" y="147" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586343292283" />
+    <state x="973" y="207" key="NewPhpClassDialog" timestamp="1586340752057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="973" y="207" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1586340752057" />
+    <state x="986" y="316" key="NewPhpFileDialog" timestamp="1586337569268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="986" y="316" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1586337569268" />
+  </component>
+</project>
